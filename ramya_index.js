@@ -11,6 +11,7 @@ let heightFactor = 4;
 let speedFactor = 100;
 let unsorted_array = new Array(numOfBars);
 
+//2nd
 slider.addEventListener("input", function () {
   numOfBars = slider.value;
   maxRange = slider.value;
